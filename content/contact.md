@@ -1,6 +1,8 @@
 +++
-title = "Contact"
 slug = "contact"
-+++
+title = "Contact"
 
-Follow me, @johndoe.
++++
+If you want to contact me please use my email.
+
+info@kevinvandenbroek.nl
